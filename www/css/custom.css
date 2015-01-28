@@ -1,0 +1,27 @@
+body{
+	background-color:#66afe9 !important;
+	font-family:tahoma !important;
+	font-size:8px !important;
+	}
+p{
+	margin-bottom:5px !important;
+	}
+.navbar-brand{
+	float:none !important;
+	}
+.content{
+    padding: 5px;
+    margin-bottom: 10px;
+    border: solid 1px #ccc;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+	background-color:#FFF;
+	overflow:auto;
+}
+.content img{
+	
+	margin-top:5px;
+	}
