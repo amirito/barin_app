@@ -1,5 +1,5 @@
 body{
-	background-color:#66afe9 !important;
+	background-color:#eee !important;
 	font-family:tahoma !important;
 	font-size:8px !important;
 	}
@@ -20,8 +20,21 @@ p{
     transition: all .5s;
 	background-color:#FFF;
 	overflow:auto;
+	border:2px solid #66afe9;
+	border-radius:4px;
+	box-shadow:0 0 2px #555;
+	  -moz-box-shadow:0 0 2px #555;
+  -webkit-box-shadow:0 0 2px #555;
 }
 .content img{
 	
 	margin-top:5px;
+	}
+.form-horizontal .control-label {
+	padding-top:13px !important;
+	}
+.city{
+	text-shadow:0 5px 8px !important;
+	  -moz-text-shadow:0 5px 8px !important;
+ 	 -webkit-text-shadow:0 5px 8px !important;
 	}
